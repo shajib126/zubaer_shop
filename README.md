@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# ZUBAER SHOP
 
 
 
@@ -7,7 +7,7 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 
 ## Demo Website
 
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
+- 👉 Heroku : [https://mern-zubaershop-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
 
 ## You Will Learn
 

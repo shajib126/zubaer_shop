@@ -61,6 +61,6 @@ $ npm start
 
 ## Support
 
-- Contact Instructor: [Basir](mailto:shajib126@gmail.com)
+- Contact Instructor: [abu zubaer](mailto:shajib126@gmail.com)
 
 
